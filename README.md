@@ -7,6 +7,10 @@ This repository contains the smart contracts for the Lady Pepe project, includin
 - Website: [https://ladypepe.xyz](https://ladypepe.xyz)
 - Twitter: [@LadyPepeFinance](https://twitter.com/LadyPepeFinance)
 - Discord: [Lady Pepe Discord](https://discord.com/channels/krvQ6JTpSh)
+- Facebook: [[Lady Pepe Facebook](https://www.facebook.com/profile.php?id=100093637836244).
+- Github: [@ladypepe](https://github.com/LadyPepe).
+- Telegram: [@ladypepefinance](https://t.me/ladypepefinance).
+- Linkedin: [[Lady Pepe Linkedin](https://www.linkedin.com/company/lady-pepe-finance/).
 
 ## Lady Pepe Token Contract
 
